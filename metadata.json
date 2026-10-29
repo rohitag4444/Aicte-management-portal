@@ -1,0 +1,6 @@
+{
+  "name": "AICTE FDR Management Portal",
+  "description": "Smart Fixed Deposit Receipt (FDR) lifecycle and verification management portal for AICTE educational institutions with role-based access, maturity monitoring, duplicate detection, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
